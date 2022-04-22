@@ -1,0 +1,13 @@
+id	title	size	color	shape
+1	System A	40	green	square
+2	Database	10	blue	circle
+3	Other library	10	red	circle
+4	System B	40	green	square
+5	Database	10	blue	circle
+6	Other library	10	red	circle
+7	Database	10	blue	circle
+8	Other library	10	red	circle
+9	Other library	10	red	circle
+10	System C	40	green	square
+11	Database	10	blue	circle
+12	Other library	10	red	circle
